@@ -29,7 +29,7 @@ key = '6686f5227c304d129ab326a8ffd9a887'
 
 window = Tk()
 window.title("Координаты городов")
-window.geometry("200x150")
+window.geometry("300x150")
 
 entry = ttk.Entry(window)
 entry.pack(pady=10)
